@@ -1,0 +1,15 @@
+body {
+    border: 15px solid grey;
+}
+
+.imageSize{
+    width: 200px;
+    height:150px;
+}
+li {
+    text-align: center;
+}
+p {
+    font-size: 25px;
+    color: green;
+}
